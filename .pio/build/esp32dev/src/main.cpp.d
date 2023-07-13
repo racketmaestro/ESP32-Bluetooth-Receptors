@@ -212,4 +212,7 @@
  .pio/libdeps/esp32dev/NimBLE-Arduino/src/NimBLEAdvertisedDevice.h \
  .pio/libdeps/esp32dev/NimBLE-Arduino/src/NimBLEEddystoneURL.h \
  .pio/libdeps/esp32dev/NimBLE-Arduino/src/NimBLEEddystoneTLM.h \
- .pio/libdeps/esp32dev/NimBLE-Arduino/src/NimBLEBeacon.h
+ .pio/libdeps/esp32dev/NimBLE-Arduino/src/NimBLEBeacon.h \
+ lib/RealTimeClock/RealTimeClock.h \
+ .pio/libdeps/esp32dev/RTClib/src/RTClib.h \
+ .pio/libdeps/esp32dev/Adafruit\ BusIO/Adafruit_I2CDevice.h
